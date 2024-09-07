@@ -20,5 +20,15 @@ public class TestLista {
         // prbando metodo recorrido :)
         String recorridoString = listaNumeros.recorrerLista();
         System.out.println(recorridoString);
+
+        System.out.println();
+        String a = "hola";
+        String b = "hola";
+        if (a == b) {
+            System.out.println("si");
+        }else{
+            System.out.println("no");
+        }
+
     }
 }
